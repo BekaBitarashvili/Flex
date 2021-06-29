@@ -1,0 +1,72 @@
+.header{
+	display: flex;
+	align-items: center;
+}
+.logo{
+	width: 133px;
+	height: 31px;
+	margin: 25px 535px 25px 95px;
+}
+.container{
+	width: 1360px;
+	height: 81px;
+	margin: 0 auto;
+}
+ul{
+	display: flex;
+	width: 503px;
+	height: 19px;
+	justify-content: space-around;
+	align-items: center;
+
+}
+.home{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+.about{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+.our{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+.tour{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+
+.bg-image{
+	background-image: url(../images/cover.png);
+	height: 600px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.p1{
+    width: 587px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 78.74px;
+    color: #fff;
+}
+.p2{
+	width: 313px;
+    line-height: 37px;
+    margin-top: 36.3px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
